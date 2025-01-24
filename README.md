@@ -1,1 +1,1 @@
-<img class="hypeR" src="https://cdn.betterttv.net/emote/62d67024d991a3e26c12cf58/3x" alt="hype">
+<img class="MiyanoSippy" src="https://cdn.betterttv.net/emote/5d516ad025570a0ac7e848b2/3x" alt="sippy">
